@@ -1,0 +1,40 @@
+{
+  "name": "project-04-cli-based-calculator-node-and-typescript",
+  "version": "1.0.2",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "bin": {
+    "ahmedcacli": "lib/index.js"
+  },
+  "keywords": [
+    "cli calculator",
+    "typescript calculator"
+  ],
+  "author": "ahmed ali ansari",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0",
+    "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/gradient-string": "^1.1.2",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.9",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  }
+}
