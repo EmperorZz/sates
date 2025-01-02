@@ -18,7 +18,7 @@
     "typescript calculator"
   ],
   "author": "ahmed ali ansari",
-  "license": "ISC", g55Q9JlYII
+  "license": "ISC",
   "dependencies": {
     "chalk": "^5.1.2",
     "chalk-animation": "^2.0.3",
