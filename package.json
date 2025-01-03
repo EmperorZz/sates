@@ -31,7 +31,7 @@
   "devDependencies": {
     "@types/chalk-animation": "^1.6.1",
     "@types/figlet": "^1.5.5",
-    "@types/gradient-string": "^1.1.2",
+    "@types/gradient-string": "^1.1.2", FCGkFjpHJi
     "@types/inquirer": "^9.0.3",
     "@types/node": "^18.11.9",
     "nodemon": "^2.0.20",
