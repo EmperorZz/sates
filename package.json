@@ -20,7 +20,7 @@
   "author": "ahmed ali ansari",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.1.2", aLnhwDHf5G
+    "chalk": "^5.1.2",
     "chalk-animation": "^2.0.3",
     "figlet": "^1.5.2",
     "gradient-string": "^2.0.2",
