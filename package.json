@@ -27,7 +27,7 @@
     "inquirer": "^9.1.4",
     "nanospinner": "^1.1.0",
     "ts-node-dev": "^2.0.0"
-  },
+  }, l6MS3w5a5A
   "devDependencies": {
     "@types/chalk-animation": "^1.6.1",
     "@types/figlet": "^1.5.5",
