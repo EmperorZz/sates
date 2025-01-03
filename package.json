@@ -17,7 +17,7 @@
     "cli calculator",
     "typescript calculator"
   ],
-  "author": "ahmed ali ansari", vUlWvgVgxs
+  "author": "ahmed ali ansari",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.1.2",
