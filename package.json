@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "start": "node .",
-    "build": "tsc", eIQZsuXSzb
+    "build": "tsc",
     "prepare": "npm run build"
   },
   "bin": {
